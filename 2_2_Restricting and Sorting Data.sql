@@ -38,7 +38,7 @@ FROM EMPLOYEES
 WHERE DEPARTMENT_ID in (20, 50) and SALARY between 5000 and 12000
 ORDER BY LAST_NAME asc
 
-7. 1994년에 입사한 모든 사원의 이름과 입사일을 표시
+* 7. 1994년에 입사한 모든 사원의 이름과 입사일을 표시
 
 SELECT LAST_NAME, HIRE_DATE
 FROM EMPLOYEES 
