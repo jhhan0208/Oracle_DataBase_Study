@@ -28,5 +28,3 @@ CITY			NOT NULL	VARCHAR2(30)	Tokyo
 STATE_PROVINCE	 	- 	        VARCHAR2(25)	Tokyo Prefecture
 COUNTRY_ID	 	- 	        CHAR(2)		JP
 
-as    a  a  a  a  a
-b        b  b  b  b  b
