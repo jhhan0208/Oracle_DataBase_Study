@@ -27,3 +27,6 @@ POSTAL_CODE	 	- 	      VARCHAR2(12)	1689
 CITY			NOT NULL	   VARCHAR2(30)	Tokyo
 STATE_PROVINCE	 	- 	      VARCHAR2(25)	Tokyo Prefecture
 COUNTRY_ID	 	- 	      CHAR(2)		JP
+
+a  a  a  a  a  a
+b  b  b  b  b  b
