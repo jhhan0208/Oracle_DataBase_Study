@@ -1,5 +1,5 @@
 EMPLOYEES
-Column			Null?		Type			EX
+Column			Null?		Type		EX
 EMPLOYEE_ID		NOT NULL	NUMBER(6,0)	100
 FIRST_NAME		 - 		VARCHAR2(20)	Steven
 LAST_NAME		NOT NULL	VARCHAR2(25)	King
